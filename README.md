@@ -1,2 +1,0 @@
-# project
-cs 260
